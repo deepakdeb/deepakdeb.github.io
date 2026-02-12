@@ -144,7 +144,7 @@ const Hero = () => {
               <div className="code-line code-indent">
                 <span className="code-property">experience</span>:{' '}
                 <span className="code-number">4</span>{' '}
-                <span className="code-comment">// years</span>
+                <span className="code-comment">/ years</span>
               </div>
               <div className="code-line">{'}'}</div>
             </div>
