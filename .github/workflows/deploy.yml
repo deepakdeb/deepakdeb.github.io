@@ -34,7 +34,7 @@ jobs:
     - name: Build
       env:
         REACT_APP_RESUME_URL: ${{ secrets.RESUME_URL }}
-        PUBLIC_URL: .
+        PUBLIC_URL: /
       run: npm run build
       
     - name: Setup Pages

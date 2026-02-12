@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://deepakdeb.github.io/",
   "dependencies": {
     "framer-motion": "^12.34.0",
     "lucide-react": "^0.563.0",
